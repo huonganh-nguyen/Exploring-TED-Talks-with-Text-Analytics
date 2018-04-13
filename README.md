@@ -1,6 +1,6 @@
 # Exploring-TED-Talks-with-Text-Analytics
 
-Review this Kaggle project where the author extracted from the TED Talks https://www.kaggle.com/rounakbanik/ted-data-analysis/data (Links to an external site.)Links to an external site.
+Review this Kaggle project where the author extracted from the TED Talks https://www.kaggle.com/rounakbanik/ted-data-analysis/data.
 
 •	What theories do you have about what makes a TED talk popular?
 
